@@ -29,26 +29,3 @@ body {
   color: #ffffff;
   background-image: url(img/stone.png);
 }
-
-.info div {
-  float: left;
-  width: 50%;
-  padding: 0px;
-}
-
-.info img {
-  height: 250px;
-  text-align: right;
-  padding-right: 30;
-}
-
-.info .mail {
-  display: flex;
-  align-items: center;
-}
-
-.info .mail p {
-  margin-left: 30%;
-  font-family: 'DotGothic16', sans-serif;
-  font-size: 30px;
-}
